@@ -1,0 +1,30 @@
+ESP_Edgedevice-backups/*
+Libraries/
+Production/
+EasyEDA_Lib/
+
+
+# Lock files and autosaves
+~*.lck
+_autosave-*.kicad_pcb
+
+
+# Backup and temp files
+*.bak
+*.tmp
+*.swp
+*.~*
+
+# KiCad user and cache files
+*.kicad_prl
+fp-info-cache
+sym-lib-table
+
+# Project-specific local changes
+*.kicad_pro
+*.kicad_sch-bak
+*.kicad_pcb-bak
+ 
+#Fabrication Outputs
+*.csv
+*.json
