@@ -2829,6 +2829,12 @@
 					(unit 1)
 				)
 			)
+			(project "relay"
+				(path "/c785de08-5ba1-4919-b5e1-f0049f07229d"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2922,6 +2928,12 @@
 					(unit 1)
 				)
 			)
+			(project "relay"
+				(path "/c785de08-5ba1-4919-b5e1-f0049f07229d"
+					(reference "D1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2997,6 +3009,12 @@
 		(instances
 			(project "ESP_Edgedevice"
 				(path "/8fa9f2a2-260d-4024-b3c1-a0bc52ef0867/c380d0b5-0235-468c-a489-737f32e01687"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+			(project "relay"
+				(path "/c785de08-5ba1-4919-b5e1-f0049f07229d"
 					(reference "R4")
 					(unit 1)
 				)
@@ -3095,6 +3113,12 @@
 					(unit 1)
 				)
 			)
+			(project "relay"
+				(path "/c785de08-5ba1-4919-b5e1-f0049f07229d"
+					(reference "K1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3171,6 +3195,12 @@
 		(instances
 			(project "ESP_Edgedevice"
 				(path "/8fa9f2a2-260d-4024-b3c1-a0bc52ef0867/c380d0b5-0235-468c-a489-737f32e01687"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+			(project "relay"
+				(path "/c785de08-5ba1-4919-b5e1-f0049f07229d"
 					(reference "R3")
 					(unit 1)
 				)
@@ -3253,6 +3283,12 @@
 					(unit 1)
 				)
 			)
+			(project "relay"
+				(path "/c785de08-5ba1-4919-b5e1-f0049f07229d"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3328,6 +3364,12 @@
 		(instances
 			(project "ESP_Edgedevice"
 				(path "/8fa9f2a2-260d-4024-b3c1-a0bc52ef0867/c380d0b5-0235-468c-a489-737f32e01687"
+					(reference "R13")
+					(unit 1)
+				)
+			)
+			(project "relay"
+				(path "/c785de08-5ba1-4919-b5e1-f0049f07229d"
 					(reference "R13")
 					(unit 1)
 				)
@@ -3416,6 +3458,12 @@
 		(instances
 			(project "ESP_Edgedevice"
 				(path "/8fa9f2a2-260d-4024-b3c1-a0bc52ef0867/c380d0b5-0235-468c-a489-737f32e01687"
+					(reference "Q1")
+					(unit 1)
+				)
+			)
+			(project "relay"
+				(path "/c785de08-5ba1-4919-b5e1-f0049f07229d"
 					(reference "Q1")
 					(unit 1)
 				)
@@ -3651,6 +3699,12 @@
 					(unit 1)
 				)
 			)
+			(project "relay"
+				(path "/c785de08-5ba1-4919-b5e1-f0049f07229d"
+					(reference "U3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3754,6 +3808,12 @@
 					(unit 1)
 				)
 			)
+			(project "relay"
+				(path "/c785de08-5ba1-4919-b5e1-f0049f07229d"
+					(reference "D2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3836,6 +3896,18 @@
 					(unit 1)
 				)
 			)
+			(project "relay"
+				(path "/c785de08-5ba1-4919-b5e1-f0049f07229d"
+					(reference "J3")
+					(unit 1)
+				)
+			)
 		)
 	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )
