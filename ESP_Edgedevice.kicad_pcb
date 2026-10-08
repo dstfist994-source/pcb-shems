@@ -126,7 +126,6 @@
 			(outputdirectory "../New PCB Gerber/")
 		)
 	)
-	(property "project_name" "ESP-Edge Device")
 	(footprint "Converter_ACDC:Converter_ACDC_Hi-Link_HLK-5Mxx"
 		(layer "F.Cu")
 		(uuid "06721e9a-b9e7-4f7b-bdf4-251df701fcf5")
