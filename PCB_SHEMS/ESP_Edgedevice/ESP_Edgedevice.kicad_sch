@@ -3187,7 +3187,7 @@
 				)
 			)
 		)
-		(property "Footprint" "xiao-esp32-c3:xiao_esp32c3"
+		(property "Footprint" "myparts:XIAO_Socket_W15.24"
 			(at 130.81 16.51 0)
 			(hide yes)
 			(show_name no)
@@ -4364,7 +4364,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_3-G_1x03_P5.00mm_Horizontal"
+		(property "Footprint" "myparts:HB9500_9.5-3P"
 			(at 250.19 22.86 0)
 			(hide yes)
 			(show_name no)
